@@ -22,4 +22,4 @@ DDoS Packet is Dev project you can use phone to ddos attack without Termux or ot
 * UDP
 * TCP
 # Any issues?
-(Click here!)[https://github.com/fusedevgithub/DDoSPacket/issues]
+[Click here!](https://github.com/fusedevgithub/DDoSPacket/issues)
