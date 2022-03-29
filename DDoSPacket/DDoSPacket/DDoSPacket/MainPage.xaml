@@ -12,9 +12,10 @@
         <Label Text="Amount Packet: " FontSize="Medium"/>
         <Editor x:Name="thread"/>
         <Picker x:Name="NP" Title="Network Protocol" />
+        <Label x:Name="amount" Text="Packet are send success: 0" FontSize="Medium"/>
+        <Label x:Name="amountf" Text="Packet are send unsuccess: 0" FontSize="Medium"/>
         <Button Clicked="start" Text="Start" HorizontalOptions="Center"/>
         <Button Clicked="stop" Text="Exit (Stop)" HorizontalOptions="Center"/>
-        <Button Clicked="status" Text="Attack Status" HorizontalOptions="Center"/>
         <Button Clicked="INFO" Text="App Info" HorizontalOptions="Center"/>
     </StackLayout>
 
