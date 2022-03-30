@@ -8,6 +8,7 @@
     <PackageReleaseNotes>Beta Version</PackageReleaseNotes>
     <Version>0.5.0</Version>
     <ApplicationIcon>icon.ico</ApplicationIcon>
+    <PackageProjectUrl>https://github.com/fusedevgithub/DDoSPacket/</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
