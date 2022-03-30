@@ -21,5 +21,6 @@ DDoS Packet is Dev project you can use phone to ddos attack without Termux or ot
 # Methods
 * UDP
 * TCP
+* ICMP
 # Any issues?
 [Click here!](https://github.com/fusedevgithub/DDoSPacket/issues)
