@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDoSPacketAndroid.Android", "DDoSPacketAndroid\DDoSPacketAndroid.Android\DDoSPacketAndroid.Android.csproj", "{5F0F9CF5-D6AE-4DC5-BC04-248DB0711EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDoSPacketAndroid", "DDoSPacketAndroid\DDoSPacketAndroid\DDoSPacketAndroid.csproj", "{EE4DF003-3747-4206-BCBF-A75F6231B3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F0F9CF5-D6AE-4DC5-BC04-248DB0711EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0F9CF5-D6AE-4DC5-BC04-248DB0711EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0F9CF5-D6AE-4DC5-BC04-248DB0711EC3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5F0F9CF5-D6AE-4DC5-BC04-248DB0711EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0F9CF5-D6AE-4DC5-BC04-248DB0711EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0F9CF5-D6AE-4DC5-BC04-248DB0711EC3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EE4DF003-3747-4206-BCBF-A75F6231B3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4DF003-3747-4206-BCBF-A75F6231B3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4DF003-3747-4206-BCBF-A75F6231B3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4DF003-3747-4206-BCBF-A75F6231B3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A556C9E3-351D-42DF-A341-9F7A0734DD86}
+	EndGlobalSection
+EndGlobal
