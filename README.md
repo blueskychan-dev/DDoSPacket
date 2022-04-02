@@ -7,7 +7,7 @@ Use own Phone to DDoS Attack without Termux! (Android 5.1+)
 # What is DDoS Packet for Android?
 DDoS Packet is Dev project you can use phone to ddos attack without Termux or other program!
 # Screenshot
-![Screenshot_20220329-200823](https://user-images.githubusercontent.com/47820634/160624015-67af8834-9fd2-4df9-a662-1cf584aa81c6.jpg)
+![Screenshot_20220402-181920](https://user-images.githubusercontent.com/47820634/161381269-0c318b60-5b97-48e2-94fa-1a784f2a863e.jpg)
 # Minimum requirements
 * Android 5.1+
 * Internet Access
