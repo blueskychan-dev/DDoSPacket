@@ -1,3 +1,4 @@
+📦 This project is archived and no longer maintained. Read more: [Why I moved on →](https://mindhas403.dev/post/timetomoveon)
 # Lastest Update from 27 November 2023
 Thanks for reporting issues in issues tab, Most issues i can resolved it, it look like my attack code/script is too old also i use Xamarin to based C# in Android and it is already End of Life...
 
